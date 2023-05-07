@@ -1,1 +1,2 @@
-# Apache-webserver-hardening
+# apache-hardening
+Apache Hardening Script
